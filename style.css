@@ -6,3 +6,15 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+
+.front-container{
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 50%;
+    width: 40%;
+    border: 1px solid #000;
+}
